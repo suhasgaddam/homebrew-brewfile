@@ -19,6 +19,7 @@ cask 'flash'
 cask 'google-drive'
 cask 'keepassx'
 cask 'iterm2'
+cask 'gitup'
 
 # homebrew
 brew 'bash-completion'
