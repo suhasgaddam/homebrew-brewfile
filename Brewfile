@@ -9,6 +9,7 @@ cask 'google-chrome'
 cask 'firefox'
 cask 'java'
 cask 'virtualbox'
+cask 'virtualbox-extension-pack'
 cask 'vagrant'
 cask 'vlc'
 cask 'speedcrunch'
@@ -28,6 +29,7 @@ brew 'macvim', args: [ 'with-override-system-vim' ]
 
 brew 'git'
 brew 'git-cola'
+brew 'git-lfs'
 brew 'hub'
 
 brew 'htop-osx'
@@ -37,6 +39,7 @@ brew 'ack'
 brew 'p7zip'
 brew 'sqlite'
 brew 'tree'
+brew 'colordiff'
 
 brew 'scala'
 brew 'sbt'
@@ -50,4 +53,6 @@ brew 'docker-machine'
 
 brew 'rbenv'
 brew 'ruby-build'
+
+brew 'gnupg2'
 
