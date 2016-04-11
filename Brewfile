@@ -54,5 +54,8 @@ brew 'docker-machine'
 brew 'rbenv'
 brew 'ruby-build'
 
+brew 'nodenv'
+brew 'node-build'
+
 brew 'gnupg2'
 
