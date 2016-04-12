@@ -1,5 +1,6 @@
 tap 'caskroom/cask'
 tap 'caskroom/versions'
+tap 'homebrew/services'
 
 # caskroom/versions
 cask 'intellij-idea-ce'
@@ -21,6 +22,7 @@ cask 'google-drive'
 cask 'keepassx'
 cask 'iterm2'
 cask 'gitup'
+cask 'tcl'
 
 # homebrew
 brew 'bash-completion'
@@ -58,4 +60,6 @@ brew 'nodenv'
 brew 'node-build'
 
 brew 'gnupg2'
+
+brew 'mysql'
 
