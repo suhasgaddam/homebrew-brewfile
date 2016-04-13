@@ -1,6 +1,8 @@
 tap 'caskroom/cask'
 tap 'caskroom/versions'
 tap 'homebrew/services'
+tap 'homebrew/php'
+tap 'homebrew/completions'
 
 # caskroom/versions
 cask 'intellij-idea-ce'
@@ -23,6 +25,7 @@ cask 'keepassx'
 cask 'iterm2'
 cask 'gitup'
 cask 'tcl'
+cask 'mysqlworkbench'
 
 # homebrew
 brew 'bash-completion'
@@ -63,3 +66,5 @@ brew 'gnupg2'
 
 brew 'mysql'
 
+brew 'composer'
+brew 'composer-completion'
