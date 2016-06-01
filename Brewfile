@@ -14,6 +14,7 @@ cask 'java'
 cask 'virtualbox'
 cask 'virtualbox-extension-pack'
 cask 'vagrant'
+cask 'packer'
 cask 'vlc'
 cask 'speedcrunch'
 cask 'sublime-text3'
@@ -45,10 +46,13 @@ brew 'p7zip'
 brew 'sqlite'
 brew 'tree'
 brew 'colordiff'
+brew 'watch'
 
 brew 'scala'
 brew 'sbt'
 brew 'typesafe-activator'
+
+brew 'maven'
 
 brew 'python'
 
@@ -68,3 +72,6 @@ brew 'mysql'
 
 brew 'composer'
 brew 'composer-completion'
+
+brew 'oath-toolkit'
+
