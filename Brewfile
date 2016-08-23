@@ -27,6 +27,7 @@ cask 'iterm2'
 cask 'gitup'
 cask 'tcl'
 cask 'mysqlworkbench'
+cask 'ipvanish-vpn'
 
 # homebrew
 brew 'bash-completion'
@@ -47,6 +48,8 @@ brew 'sqlite'
 brew 'tree'
 brew 'colordiff'
 brew 'watch'
+brew 'jq'
+brew 'tmux'
 
 brew 'scala'
 brew 'sbt'
