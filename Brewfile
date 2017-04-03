@@ -19,7 +19,6 @@ cask 'speedcrunch'
 cask 'sublime-text'
 cask 'google-cloud-sdk'
 cask 'flux'
-cask 'flash'
 cask 'google-drive'
 cask 'keepassx'
 cask 'iterm2'
@@ -27,6 +26,7 @@ cask 'gitup'
 cask 'tcl'
 cask 'mysqlworkbench'
 cask 'ipvanish-vpn'
+cask 'tomighty'
 
 # homebrew
 brew 'bash-completion'
@@ -73,7 +73,6 @@ brew 'gnupg2'
 brew 'mysql'
 
 brew 'composer'
-brew 'composer-completion'
 
 brew 'oath-toolkit'
 
